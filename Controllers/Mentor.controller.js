@@ -1,4 +1,4 @@
-import Mentors from "../Models/MentorSchema.js";
+import Mentors from '../Models/mentorSchema.js'
 
 // create or add mentors detail and students assigned by _id
 export const createMentors = async(req,res)=>{
